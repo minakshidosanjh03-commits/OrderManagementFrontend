@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p101",
+    "name": "Wireless Headphones",
+    "description": "Bluetooth noise-cancelling over-ear headphones.",
+    "price": 2999,
+    "image": "https://via.placeholder.com/150?text=Headphones"
+  },
+  {
+    "id": "p102",
+    "name": "Smart Watch",
+    "description": "Fitness tracking with heart rate monitor and GPS.",
+    "price": 4999,
+    "image": "https://via.placeholder.com/150?text=Smart+Watch"
+  },
+  {
+    "id": "p103",
+    "name": "Portable Speaker",
+    "description": "High-bass and waterproof Bluetooth speaker.",
+    "price": 1999,
+    "image": "https://via.placeholder.com/150?text=Speaker"
+  },
+  {
+    "id": "p104",
+    "name": "Gaming Mouse",
+    "description": "RGB lighting and adjustable DPI for high precision gaming.",
+    "price": 1499,
+    "image": "https://via.placeholder.com/150?text=Mouse"
+  },
+  {
+    "id": "p105",
+    "name": "Mechanical Keyboard",
+    "description": "Tactile mechanical keys with backlight.",
+    "price": 3499,
+    "image": "https://via.placeholder.com/150?text=Keyboard"
+  },
+  {
+    "id": "p106",
+    "name": "Laptop Stand",
+    "description": "Ergonomic foldable portable stand for laptops.",
+    "price": 899,
+    "image": "https://via.placeholder.com/150?text=Laptop+Stand"
+  }
+]
